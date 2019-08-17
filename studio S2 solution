@@ -44,6 +44,6 @@ function combo_price(combo)
             1.17 * 4 + (combo-4) * 0.5
             :
             1.17 * combo;
-            
+           
 }
 combo_price(3);
